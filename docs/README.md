@@ -40,6 +40,14 @@ Accessible explainers that link into the architecture for depth.
 - [Programmable licensing](concepts/programmable-licensing.md) — portable, CC-compatible rights.
 - [FAQ](faq.md) — common questions.
 
+## Governance
+
+- [Mediolano DAO](governance/mediolano-dao.md) — mission, funding, membership & voting.
+- [Community Guidelines](governance/community-guidelines.md) — how the community participates.
+- [Compliance Guidelines](governance/compliance-guidelines.md) — informational; not legal advice.
+- [Constitution](governance/constitution.md) — *draft, pending ratification.*
+- [Governance Charter](governance/governance-charter.md) — *draft, pending ratification.*
+
 Supporting reference:
 
 - [Glossary](glossary.md) — canonical terms used across the architecture.
