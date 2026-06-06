@@ -50,13 +50,13 @@ anyone, including its authors.
 **Roots:** Axioms 04, 01.
 
 **Rules out:**
-- Owner/admin keys or upgradeable proxies over public-good primitives.
+- Owner/admin keys or upgradeable proxies over public-goods primitives.
 - Mutable parameters that could re-write the meaning of existing records.
 
 ### 4. Zero-fee public-goods substrate
 
 The tokenization and protection primitives charge nothing. The infrastructure is a commons; a
-fee inside an immutable public-good primitive would both gate a permissionless action and freeze
+fee inside an immutable public-goods primitive would both gate a permissionless action and freeze
 fee policy into code. Applications may build their own economic models around the substrate; the
 substrate itself stays neutral and free.
 

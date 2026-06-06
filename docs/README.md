@@ -9,6 +9,11 @@ The **[Integrity Web Axioms](architecture/00-axioms.md) are the governing author
 architecture. Every document derives from them; where any document conflicts with an axiom, the
 axiom wins.
 
+## Start here
+
+- **[Manifesto](manifesto.md)** — why Mediolano exists, in brief.
+- **[Litepaper](litepaper.md)** — an accessible overview of the protocol, for everyone.
+
 ## Reading order
 
 Read the architecture in order — each document builds on the ones before it.
