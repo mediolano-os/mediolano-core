@@ -27,6 +27,15 @@ commercial protocol governs how it *allocates* the fees it collects; Mediolano h
 allocate**, because it collects none. Applications may build economic models *around* the
 substrate; the substrate stays free.
 
+### The protocol is zero-fee; the DAO funds itself off-protocol
+
+Zero-fee is a property of the **primitives**. It is distinct from how the **DAO** sustains its own
+stewardship. The DAO may fund itself **off-protocol** — through optional premium services and
+app-layer offerings, grants, and donations — and recycle any surplus into public goods. It must
+**never** meter, tax, or extract from the primitives to do so. "Governance without extraction"
+means no extraction *from the substrate*: the commons stays free to use, while the stewardship
+around it can be sustainable.
+
 ## Governance without extraction
 
 What the DAO does govern is **neutrality and resilience**, never gates and never rents:
