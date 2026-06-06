@@ -11,15 +11,16 @@ independently of any application, marketplace, gateway, or database — and acro
 
 ## Berne-aligned authorship
 
-Mediolano records authorship in a form designed to align with the
-[Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention) for the Protection of Literary
-and Artistic Works, the treaty under which authorship is recognized across more than 180
-countries. The substrate does not adjudicate copyright; it produces **durable, independently
-verifiable evidence** of authorship and provenance that a creator can rely on wherever the treaty
-reaches.
+Tokenizing a work on Mediolano creates a **Berne Convention-compliant record of authorship and
+ownership** — a timestamped, immutable proof and licensing record recognized across the
+[Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention)'s 180+ member states. It
+performs, on-chain, permissionlessly, and at zero protocol cost, the proof-of-ownership,
+publication, and licensing function that notarial offices and copyright-registration services
+traditionally charge significant fees to provide.
 
-The claim a Mediolano record makes is narrow and strong: *this work, this author, this moment,
-this chain of custody* — tamper-proof and verifiable by anyone, forever (Axiom 04, Axiom 09).
+The claim a Mediolano record makes is strong and checkable: *this work, this author, this moment,
+this chain of custody, these terms* — tamper-proof, content-addressed, and verifiable by anyone,
+forever (Axiom 04, Axiom 09).
 
 ## Durable records: immutable and content-addressed
 

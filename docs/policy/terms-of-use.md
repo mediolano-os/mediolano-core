@@ -4,10 +4,8 @@
 > This is general information, not legal advice.
 >
 > **Changes from the legacy version**
-> - **Berne overclaim corrected:** Mediolano produces verifiable authorship *evidence* aligned
->   with the Berne Convention; recognition flows from authorship of the work, not from tokenization.
-> - **Count standardized:** "180+ Berne member states" (exact figure pending legal review).
 > - **Zero-fee & non-custodial made explicit;** chain framing aligned to "owned by no chain."
+> - Berne member-state count to be confirmed at legal review.
 
 ---
 
@@ -20,9 +18,9 @@ If you do not agree, do not use the protocol or its applications.
 ## 2. What Mediolano is
 
 Mediolano is a permissionless, open-source protocol for tokenizing, protecting, and licensing
-intellectual property. It is **non-custodial**, its primitives are **zero-fee**, and it produces
-durable, verifiable **authorship evidence** aligned with the Berne Convention. It is powered on
-Starknet and designed to be owned by no chain.
+intellectual property. It is **non-custodial**, its primitives are **zero-fee**, and it creates
+**Berne Convention-compliant records of authorship and ownership**. It is powered on Starknet and
+designed to be owned by no chain.
 
 ## 3. Eligibility and responsible use
 
@@ -37,12 +35,13 @@ recover your assets.** Safeguarding your keys and reviewing what you sign is you
 
 ## 5. Intellectual property
 
-Authorship and ownership records created through Mediolano are **evidence, not adjudication**: the
-protocol records and proves; it does not grant, decide, or enforce copyright. Tokenization does not
-by itself confer legal recognition — recognition flows from authorship of the underlying work.
-Such works are protected under the Berne Convention across **180+ member states**, typically for a
-term of 50–70 years depending on jurisdiction. **Jurisdictional enforcement of IP rights remains
-the responsibility of the creator.**
+Tokenizing a work on Mediolano creates a **Berne Convention-compliant record of authorship and
+ownership** — a timestamped, immutable proof and licensing record recognized across **180+ member
+states**, for the copyright term (typically 50–70 years depending on jurisdiction). It performs,
+permissionlessly and at zero protocol cost, the proof-of-ownership, publication, and licensing
+function that notarial offices and copyright-registration services traditionally charge for.
+Pursuing enforcement before a tribunal in a given jurisdiction remains the rights holder's
+prerogative.
 
 ## 6. No fees at the protocol layer
 

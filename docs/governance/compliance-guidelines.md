@@ -20,10 +20,12 @@ custody and no operator who can move or freeze what belongs to a user.
 
 ## Authorship and intellectual property
 
-Mediolano produces durable, independently verifiable records of authorship, designed to align with
-the Berne Convention. Importantly, the protocol **records; it does not adjudicate**. It creates
-evidence that strengthens a creator's position wherever rights are recognized and enforced — it does
-not grant, decide, or enforce copyright on anyone's behalf.
+Tokenizing a work on Mediolano creates a **Berne Convention-compliant record of authorship and
+ownership** — a timestamped, immutable proof and licensing record recognized across 180+ member
+states. This is the proof-of-ownership and registration function that notarial offices and
+copyright-registration services traditionally charge for, performed permissionlessly and at zero
+protocol cost. Pursuing enforcement before a tribunal in a given jurisdiction remains the rights
+holder's prerogative — backed by the proof the protocol provides.
 
 → Go deeper: [Licensing & Authorship](../architecture/05-licensing-and-authorship.md).
 

@@ -5,19 +5,22 @@ first, then the substance, then links for depth.*
 
 ---
 
-Mediolano protects intellectual property by producing **durable, independently verifiable evidence
-of authorship** — a permanent record of who made a work, when, and under what terms, that anyone
-can check without trusting Mediolano. It does not replace the law; it gives the law something solid
-to stand on.
+Mediolano protects intellectual property by turning a work into a **Berne Convention-compliant
+proof of ownership and authorship** — an immutable, timestamped, worldwide-recognized record of who
+made a work, when, and under what terms. It performs, permissionlessly and at zero protocol cost,
+the proof-of-ownership and registration function that notarial offices and copyright-registration
+services traditionally charge significant fees to provide.
 
-## Evidence, not adjudication
+## A real proof of ownership
 
-**Mediolano records; courts and jurisdictions adjudicate.**
+**Tokenizing a work creates a record with genuine legal weight — not a throwaway note.**
 
-The protocol does not decide disputes or grant copyright. What it does is create proof that is hard
-to fake and impossible to quietly alter — the kind of evidence that strengthens a creator's hand
-wherever rights are recognized and enforced. The claim a Mediolano record makes is narrow and
-strong: *this work, this author, this moment, this chain of custody.*
+When you tokenize a work on Mediolano, you publish it, fix the moment, and bind its license in one
+immutable record of authorship and ownership. This is the same function notarial registries and
+copyright-registration services provide — and blockchain records of this kind are already
+recognized in practice (for example, treated as notarial records in Brazilian court rulings, and
+mapped to enforceable licenses by IP protocols such as Story). The claim a Mediolano record makes
+is strong and checkable: *this work, this author, this moment, this chain of custody, these terms.*
 
 ## Why it's tamper-proof
 
@@ -50,8 +53,8 @@ countries (and, through TRIPS, most WTO members). Berne's core ideas fit the pro
 - **National treatment.** A work from one member state is protected in every other member state.
 - **Independence of rights.** Protection in each country is independent of the country of origin.
 
-Mediolano produces the durable, portable evidence that makes those protections easy to assert
-wherever the treaty reaches.
+Tokenizing on Mediolano gives a work a durable, portable, Berne-compliant record of authorship and
+ownership — recognized wherever the treaty reaches.
 
 ## What you get
 

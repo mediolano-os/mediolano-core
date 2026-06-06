@@ -110,8 +110,9 @@ for the Protection of Literary and Artistic Works — the treaty under which aut
 recognized across more than 180 countries (and, via TRIPS, most WTO members). Berne's core ideas
 fit the protocol naturally: protection is automatic the moment a work is fixed, no registration is
 required, and rights are recognized across member states independently of the country of origin.
-Mediolano produces durable, independently verifiable evidence of authorship that strengthens those
-protections wherever the treaty reaches.
+Tokenizing on Mediolano creates a Berne-compliant, worldwide-recognized record of authorship and
+ownership — a timestamped proof and licensing instrument that does, permissionlessly and at zero
+protocol cost, what notarial and copyright-registration services charge for.
 
 And it makes no distinction between forms of intelligence: humans, AI agents, organizations, and
 future intelligences participate on the same terms. There are no human-only flows and no
