@@ -25,6 +25,7 @@ protocol answers to, the principles derived from them, and the documents that ex
 - **[The Integrity Web Axioms](docs/architecture/00-axioms.md)** — the governing authority.
 - **[Architecture](docs/README.md)** — the full `00`–`09` foundation (principles, core model,
   licensing & authorship, identity, chain sovereignty, stewardship, and more).
+- **[Concepts & FAQ](docs/README.md#concepts)** — accessible explainers and common questions.
 - **[Glossary](docs/glossary.md)** — canonical terms.
 
 ## Links

@@ -31,6 +31,15 @@ Read the architecture in order — each document builds on the ones before it.
 | [08 — Chain Sovereignty](architecture/08-chain-sovereignty.md) | CROPS and multichain invariants; chains as peers; privacy via zero-knowledge. |
 | [09 — Stewardship](architecture/09-stewardship.md) | DAO stewardship of a zero-fee commons; governance without extraction. |
 
+## Concepts
+
+Accessible explainers that link into the architecture for depth.
+
+- [How Mediolano works](concepts/how-it-works.md) — the lifecycle of an IP asset.
+- [How Mediolano protects IP](concepts/ip-protection.md) — Berne-aligned, verifiable authorship.
+- [Programmable licensing](concepts/programmable-licensing.md) — portable, CC-compatible rights.
+- [FAQ](faq.md) — common questions.
+
 Supporting reference:
 
 - [Glossary](glossary.md) — canonical terms used across the architecture.
