@@ -64,8 +64,3 @@ live with the app).
 Supporting reference:
 
 - [Glossary](glossary.md) — canonical terms used across the architecture.
-
-## Design history
-
-- `superpowers/specs/` — design specs (the validated design behind this work).
-- `superpowers/plans/` — implementation plans.
