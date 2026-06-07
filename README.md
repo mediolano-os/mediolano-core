@@ -1,6 +1,7 @@
-# Mediolano
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66cf2e3d-7349-4836-be05-c81467963d1d" />
 
-**Public-goods tokenization for the Integrity Web.**
+# Mediolano
+** Programmable IP Public-goods tokenization for the Integrity Web.**
 
 Mediolano is a public good for tokenizing, protecting, licensing, and composing intellectual
 property. It lets anyone create immutable, censorship-resistant, zero-fee records of authorship
