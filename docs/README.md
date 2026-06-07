@@ -54,6 +54,13 @@ Accessible explainers that link into the architecture for depth.
 - [Privacy Policy](policy/privacy-policy.md) — *draft, pending legal review.*
 - [Security](policy/security.md) — security posture, risks, and disclosure.
 
+## Build
+
+- [Build on Mediolano](guides/build-on-mediolano.md) — how to build on the protocol.
+
+To *use* Mediolano, see the IP Creator at <https://ip.mediolano.app> (its usage and setup guides
+live with the app).
+
 Supporting reference:
 
 - [Glossary](glossary.md) — canonical terms used across the architecture.
