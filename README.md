@@ -27,6 +27,7 @@ protocol answers to, the principles derived from them, and the documents that ex
   licensing & authorship, identity, chain sovereignty, stewardship, and more).
 - **[Concepts & FAQ](docs/README.md#concepts)** — accessible explainers and common questions.
 - **[Governance](docs/README.md#governance)** — the DAO, guidelines, and governing documents.
+- **[Policy](docs/README.md#policy)** — terms, privacy, and security.
 - **[Glossary](docs/glossary.md)** — canonical terms.
 
 ## Links

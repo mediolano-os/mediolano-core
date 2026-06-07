@@ -48,6 +48,12 @@ Accessible explainers that link into the architecture for depth.
 - [Constitution](governance/constitution.md) — *draft, pending ratification.*
 - [Governance Charter](governance/governance-charter.md) — *draft, pending ratification.*
 
+## Policy
+
+- [Terms of Use](policy/terms-of-use.md) — *draft, pending legal review.*
+- [Privacy Policy](policy/privacy-policy.md) — *draft, pending legal review.*
+- [Security](policy/security.md) — security posture, risks, and disclosure.
+
 Supporting reference:
 
 - [Glossary](glossary.md) — canonical terms used across the architecture.
