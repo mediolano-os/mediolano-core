@@ -72,9 +72,6 @@ a known standard.
       zero caller). Revealed/active states derive from timestamps
       (`revealed_at != 0`, `expires_at >= now`). No `exists`/`status` flags,
       no record storing its own map key.
-- [ ] **No on-chain enumeration structures** (rosters, per-user ID vectors,
-      ERC721Enumerable). Indexers rebuild views from keyed events; data not
-      held cannot be compelled.
 - [ ] **Events carry history; storage carries the minimum present.** Values
       with no post-hoc on-chain utility (e.g. a verified commitment salt)
       live in events only.
